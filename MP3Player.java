@@ -1,7 +1,11 @@
 package de.hsrm.mi.enia.mp3player.business;
 
 import de.hsrm.mi.eibo.simpleplayer.SimpleAudioPlayer;
+
+
 import de.hsrm.mi.eibo.simpleplayer.SimpleMinim;
+
+// Hallo Leute
 
 public class MP3Player {
 	private SimpleMinim minim;
